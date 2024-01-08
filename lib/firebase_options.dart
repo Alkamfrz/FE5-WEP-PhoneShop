@@ -52,6 +52,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '408359940546',
     projectId: 'wep-uas',
     authDomain: 'wep-uas.firebaseapp.com',
+    databaseURL: 'https://wep-uas-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'wep-uas.appspot.com',
     measurementId: 'G-PXCPXY1DJ4',
   );
@@ -61,6 +62,7 @@ class DefaultFirebaseOptions {
     appId: '1:408359940546:android:2aab034d03d9ab60d8265b',
     messagingSenderId: '408359940546',
     projectId: 'wep-uas',
+    databaseURL: 'https://wep-uas-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'wep-uas.appspot.com',
   );
 
@@ -69,6 +71,7 @@ class DefaultFirebaseOptions {
     appId: '1:408359940546:ios:22cb2aafddddecb5d8265b',
     messagingSenderId: '408359940546',
     projectId: 'wep-uas',
+    databaseURL: 'https://wep-uas-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'wep-uas.appspot.com',
     iosBundleId: 'com.example.ecommerceFirebase',
   );
