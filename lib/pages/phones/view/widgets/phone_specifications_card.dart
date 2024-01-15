@@ -99,7 +99,7 @@ class _PhoneSpecificationsCardState extends State<PhoneSpecificationsCard> {
               // price
               SpecificationField(
                 fieldName: 'Price',
-                fieldValue: '€${widget.phone.price}',
+                fieldValue: 'Rp${widget.phone.price}',
               ),
               // quantity
               SpecificationField(
